@@ -175,3 +175,106 @@ ul.intro {
 li.intro {
 	float: center;
 }
+
+/*
+#form-wrap{
+	width: 400px;
+	border: 5px;
+	margin: 500px auto;
+	padding: 20px 0px;
+}
+
+form{
+	width: 600px;
+	background-image: url(../images/blacker.png);
+	margin-left:-100px;
+	font-family: "Avenir";
+	font-weight: lighter;
+	font-size: 1.2em;
+	letter-spacing: .2em;
+	color: #FFFFFF;
+}
+
+h2.contactme {
+	font-family: "Avenir";
+	font-weight: lighter;
+	font-size: 1.6em;
+	letter-spacing: .2em;
+	color: #FFFFFF;
+	line-height: 2.0;
+	padding-left: 30%;
+}
+
+h3 {
+	font-family: "Avenir";
+	font-weight: lighter;
+	font-size: 1.2em;
+	margin-left: 50px;
+	color: #FFFFFF;
+}
+
+input {
+	margin-left: 50px;
+}
+
+input.button {
+	color: black;
+	margin: 30px 0px 17px 50px;
+	width: auto;
+	font-family: "Avenir";
+	font-weight: lighter;
+	font-size: 1em;
+	font-style: italic;
+	padding: 6px;
+}
+
+textarea {
+	width:100%;
+	min-height: 100px;
+}
+
+.f {
+	margin-top: 10px;
+}
+
+#message {
+	margin-left:50px;
+	margin-right:50px;
+}
+
+<!––
+		<div id="form-wrap">
+			<form>
+				<h2 class="contactme">Contact Me</h2>
+
+				<h3 class="contactdata">Name:</h3>
+				<input type="text" name="name"><br>
+
+				<h3 class="contactdata">Email:</h3>
+				<input type="text" name="email"><br>
+
+				<h3 class="contactdata">Message:</h3>
+				<div id="message">
+
+				<textarea type="text" name="message"></textarea><br>
+				</div>	
+				<input class="button", type="submit", value="Send Email"/>
+				<input class="button", type="reset", value="Reset Form"/>
+				
+			</form>
+		</div>
+-->
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
