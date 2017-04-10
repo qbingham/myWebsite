@@ -58,7 +58,7 @@ a:link,a:visited {
 	display: block;
 	color: #FFFFFF;
 	width: auto;
-	font-family: "Avenir";
+	font-family: "Open Sans";
 	font-weight: lighter;
 	font-size: 0.8em;
 	letter-spacing: .2em;
@@ -86,7 +86,7 @@ li{
 }
 
 h1.main {
-	font-family: "Avenir", sans-serif;
+	font-family: "Open Sans", sans-serif;
 	text-transform: uppercase;
     font-size: 4em;
     letter-spacing: .25em;
@@ -112,7 +112,7 @@ hr.line {
 }
 
 h2.main {
-	font-family: "Avenir";
+	font-family: "Open Sans", "Arial";
 	text-transform: uppercase;
 	font-weight: lighter;
 	font-size: 1.2em;
@@ -140,7 +140,7 @@ a.intro:link,a.intro:visited {
 	color: #FFFFFF;
 	margin: auto;
 	width:200px;
-	font-family: "Avenir";
+	font-family: "Open Sans";
 	font-weight: lighter;
 	font-size: 0.8em;
 	letter-spacing: .2em;
@@ -156,7 +156,7 @@ a.intro:hover,a.intro:active {
 
 
 p {
-	font-family: "Avenir";
+	font-family: "Open Sans";
 	font-weight: lighter;
 	font-size: 1.25em;
 	text-align: left;
@@ -188,7 +188,7 @@ form{
 	width: 600px;
 	background-image: url(../images/blacker.png);
 	margin-left:-100px;
-	font-family: "Avenir";
+	font-family: "Open Sans";
 	font-weight: lighter;
 	font-size: 1.2em;
 	letter-spacing: .2em;
@@ -196,7 +196,7 @@ form{
 }
 
 h2.contactme {
-	font-family: "Avenir";
+	font-family: "Open Sans";
 	font-weight: lighter;
 	font-size: 1.6em;
 	letter-spacing: .2em;
@@ -206,7 +206,7 @@ h2.contactme {
 }
 
 h3 {
-	font-family: "Avenir";
+	font-family: "Open Sans";
 	font-weight: lighter;
 	font-size: 1.2em;
 	margin-left: 50px;
@@ -221,7 +221,7 @@ input.button {
 	color: black;
 	margin: 30px 0px 17px 50px;
 	width: auto;
-	font-family: "Avenir";
+	font-family: "Open Sans";
 	font-weight: lighter;
 	font-size: 1em;
 	font-style: italic;
